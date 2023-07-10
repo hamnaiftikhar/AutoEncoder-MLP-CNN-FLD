@@ -1,2 +1,7 @@
 # AutoEncoder
-Various tasks(AUTOENCODER, DENOISE AUTOENCODERS, mlp_vscnn) performed on datasets like mnist etc, 
+-> Various tasks(AUTOENCODER, DENOISE AUTOENCODERS) performed on datasets like mnist.
+
+-> MLP vs CNN - Image Classification on the SVHN dataset and comparison of the results. 
+
+
+
