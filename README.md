@@ -1,3 +1,5 @@
+Fiverrr Project. 
+
 # AutoEncoder, MLP VS CNN, OSA, FLD
 -> AUTOENCODER/ DENOISE AUTOENCODERS 
   I trained the Autoencoders and Denoise auto encoder on datasets like mnist then avaluated their performance.
